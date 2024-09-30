@@ -1,0 +1,4 @@
+{
+    "sysdig-vscode-ext.vulnerabilityManagement.uploadResults": true,
+    "sysdig-vscode-ext.vulnerabilityManagement.detailedReports": true
+}
